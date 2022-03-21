@@ -1,0 +1,506 @@
+[
+    {
+        
+        "image":"https://blog.ipleaders.in/wp-content/uploads/2020/12/747379-4d013a81-18d1-4ced-b611-0b4c9ae7c641.jpg",
+        "name":"The Melody Hotel",
+        "title":"1. Deluxe",
+        "info":"Free Cancellation till CheckIn",
+        "break":"No Complimentary Breakfast",
+        "num":"2 Adults In One Room",
+        "area":"100 sq.ft.",
+        "wel":"Welcome Drinks Will Be Served",
+        "price":"Rs 2462"
+    },
+    {
+       
+        "image":"https://blog.ipleaders.in/wp-content/uploads/2020/12/747379-4d013a81-18d1-4ced-b611-0b4c9ae7c641.jpg",
+        "name":"The Melody Hotel",
+        "title":"2. Deluxe With BreakFast",
+        "info":"Free Cancellation till CheckIn",
+        "break":"Complimentary Breakfast",
+        "num":"2 Adults In One Room",
+        "area":"100 sq.ft.",
+        "wel":"Welcome Drinks Will Be Served",
+        "price":"Rs 2600"
+    },
+    {
+        
+        "image":"https://blog.ipleaders.in/wp-content/uploads/2020/12/747379-4d013a81-18d1-4ced-b611-0b4c9ae7c641.jpg",
+        "name":"The Bahia Heights",
+        "title":"1. Deluxe",
+        "info":"Free Cancellation till CheckIn",
+        "break":"No Complimentary Breakfast",
+        "num":"2 Adults In One Room",
+        "area":"100 sq.ft.",
+        "wel":"Welcome Drinks Will Be Served",
+        "price":"Rs 2100"
+    },
+    {
+       
+        "image":"https://blog.ipleaders.in/wp-content/uploads/2020/12/747379-4d013a81-18d1-4ced-b611-0b4c9ae7c641.jpg",
+        "name":"The Bahia Heights",
+        "title":"2. Deluxe With BreakFast",
+        "info":"Free Cancellation till CheckIn",
+        "break":"Complimentary Breakfast",
+        "num":"2 Adults In One Room",
+        "area":"100 sq.ft.",
+        "wel":"Welcome Drinks Will Be Served",
+        "price":"Rs 2300"
+    },
+    {
+        
+        "image":"https://blog.ipleaders.in/wp-content/uploads/2020/12/747379-4d013a81-18d1-4ced-b611-0b4c9ae7c641.jpg",
+        "name":"Hotel Three Palms",
+        "title":"1. Deluxe",
+        "info":"Free Cancellation till CheckIn",
+        "break":"No Complimentary Breakfast",
+        "num":"2 Adults In One Room",
+        "area":"100 sq.ft.",
+        "wel":"Welcome Drinks Will Be Served",
+        "price":"Rs 3800"
+    },
+    {
+       
+        "image":"https://blog.ipleaders.in/wp-content/uploads/2020/12/747379-4d013a81-18d1-4ced-b611-0b4c9ae7c641.jpg",
+        "name":"Hotel Three Palms",
+        "title":"2. Deluxe With BreakFast",
+        "info":"Free Cancellation till CheckIn",
+        "break":"Complimentary Breakfast",
+        "num":"2 Adults In One Room",
+        "area":"100 sq.ft.",
+        "wel":"Welcome Drinks Will Be Served",
+        "price":"Rs 4000"
+    },
+    {
+        
+        "image":"https://blog.ipleaders.in/wp-content/uploads/2020/12/747379-4d013a81-18d1-4ced-b611-0b4c9ae7c641.jpg",
+        "name":"Stella Hotel",
+        "title":"1. Deluxe",
+        "info":"Free Cancellation till CheckIn",
+        "break":"No Complimentary Breakfast",
+        "num":"2 Adults In One Room",
+        "area":"100 sq.ft.",
+        "wel":"Welcome Drinks Will Be Served",
+        "price":"Rs 3300"
+    },
+    {
+       
+        "image":"https://blog.ipleaders.in/wp-content/uploads/2020/12/747379-4d013a81-18d1-4ced-b611-0b4c9ae7c641.jpg",
+        "name":"Stella Hotel",
+        "title":"2. Deluxe With BreakFast",
+        "info":"Free Cancellation till CheckIn",
+        "break":"Complimentary Breakfast",
+        "num":"2 Adults In One Room",
+        "area":"100 sq.ft.",
+        "wel":"Welcome Drinks Will Be Served",
+        "price":"Rs 3600"
+    },
+    {
+        
+        "image":"https://blog.ipleaders.in/wp-content/uploads/2020/12/747379-4d013a81-18d1-4ced-b611-0b4c9ae7c641.jpg",
+        "name":"Country Inn and Suites By Radisson",
+        "title":"1. Deluxe",
+        "info":"Free Cancellation till CheckIn",
+        "break":"No Complimentary Breakfast",
+        "num":"2 Adults In One Room",
+        "area":"100 sq.ft.",
+        "wel":"Welcome Drinks Will Be Served",
+        "price":"Rs 5200"
+    },
+    {
+       
+        "image":"https://blog.ipleaders.in/wp-content/uploads/2020/12/747379-4d013a81-18d1-4ced-b611-0b4c9ae7c641.jpg",
+        "name":"Country Inn and Suites By Radisson",
+        "title":"2. Deluxe With BreakFast",
+        "info":"Free Cancellation till CheckIn",
+        "break":"Complimentary Breakfast",
+        "num":"2 Adults In One Room",
+        "area":"100 sq.ft.",
+        "wel":"Welcome Drinks Will Be Served",
+        "price":"Rs 5600"
+    },
+    {
+        
+        "image":"https://blog.ipleaders.in/wp-content/uploads/2020/12/747379-4d013a81-18d1-4ced-b611-0b4c9ae7c641.jpg",
+        "name":"VRC City Heart",
+        "title":"1. Deluxe",
+        "info":"Free Cancellation till CheckIn",
+        "break":"No Complimentary Breakfast",
+        "num":"2 Adults In One Room",
+        "area":"100 sq.ft.",
+        "wel":"Welcome Drinks Will Be Served",
+        "price":"Rs 2100"
+    },
+    {
+       
+        "image":"https://blog.ipleaders.in/wp-content/uploads/2020/12/747379-4d013a81-18d1-4ced-b611-0b4c9ae7c641.jpg",
+        "name":"VRC City Heart",
+        "title":"2. Deluxe With BreakFast",
+        "info":"Free Cancellation till CheckIn",
+        "break":"Complimentary Breakfast",
+        "num":"2 Adults In One Room",
+        "area":"100 sq.ft.",
+        "wel":"Welcome Drinks Will Be Served",
+        "price":"Rs 2300"
+    },
+    {
+        
+        "image":"https://blog.ipleaders.in/wp-content/uploads/2020/12/747379-4d013a81-18d1-4ced-b611-0b4c9ae7c641.jpg",
+        "name":"Hotel Sapphire",
+        "title":"1. Deluxe",
+        "info":"Free Cancellation till CheckIn",
+        "break":"No Complimentary Breakfast",
+        "num":"2 Adults In One Room",
+        "area":"100 sq.ft.",
+        "wel":"Welcome Drinks Will Be Served",
+        "price":"Rs 2700"
+    },
+    {
+       
+        "image":"https://blog.ipleaders.in/wp-content/uploads/2020/12/747379-4d013a81-18d1-4ced-b611-0b4c9ae7c641.jpg",
+        "name":"Hotel Sapphire",
+        "title":"2. Deluxe With BreakFast",
+        "info":"Free Cancellation till CheckIn",
+        "break":"Complimentary Breakfast",
+        "num":"2 Adults In One Room",
+        "area":"100 sq.ft.",
+        "wel":"Welcome Drinks Will Be Served",
+        "price":"Rs 3000"
+    },
+    {
+        
+        "image":"https://blog.ipleaders.in/wp-content/uploads/2020/12/747379-4d013a81-18d1-4ced-b611-0b4c9ae7c641.jpg",
+        "name":"CHEVRON KLASSIK",
+        "title":"1. Deluxe",
+        "info":"Free Cancellation till CheckIn",
+        "break":"No Complimentary Breakfast",
+        "num":"2 Adults In One Room",
+        "area":"100 sq.ft.",
+        "wel":"Welcome Drinks Will Be Served",
+        "price":"Rs 2600"
+    },
+    {
+       
+        "image":"https://blog.ipleaders.in/wp-content/uploads/2020/12/747379-4d013a81-18d1-4ced-b611-0b4c9ae7c641.jpg",
+        "name":"CHEVRON KLASSIK",
+        "title":"2. Deluxe With BreakFast",
+        "info":"Free Cancellation till CheckIn",
+        "break":"Complimentary Breakfast",
+        "num":"2 Adults In One Room",
+        "area":"100 sq.ft.",
+        "wel":"Welcome Drinks Will Be Served",
+        "price":"Rs 2700"
+    },
+    {
+        
+        "image":"https://blog.ipleaders.in/wp-content/uploads/2020/12/747379-4d013a81-18d1-4ced-b611-0b4c9ae7c641.jpg",
+        "name":"Hotel City Lite",
+        "title":"1. Deluxe",
+        "info":"Free Cancellation till CheckIn",
+        "break":"No Complimentary Breakfast",
+        "num":"2 Adults In One Room",
+        "area":"100 sq.ft.",
+        "wel":"Welcome Drinks Will Be Served",
+        "price":"Rs 1500"
+    },
+    {
+       
+        "image":"https://blog.ipleaders.in/wp-content/uploads/2020/12/747379-4d013a81-18d1-4ced-b611-0b4c9ae7c641.jpg",
+        "name":"Hotel City Lite",
+        "title":"2. Deluxe With BreakFast",
+        "info":"Free Cancellation till CheckIn",
+        "break":"Complimentary Breakfast",
+        "num":"2 Adults In One Room",
+        "area":"100 sq.ft.",
+        "wel":"Welcome Drinks Will Be Served",
+        "price":"Rs 1800"
+    },
+    {
+        
+        "image":"https://blog.ipleaders.in/wp-content/uploads/2020/12/747379-4d013a81-18d1-4ced-b611-0b4c9ae7c641.jpg",
+        "name":"Park Plaza Ludhiana",
+        "title":"1. Deluxe",
+        "info":"Free Cancellation till CheckIn",
+        "break":"No Complimentary Breakfast",
+        "num":"2 Adults In One Room",
+        "area":"100 sq.ft.",
+        "wel":"Welcome Drinks Will Be Served",
+        "price":"Rs 5200"
+    },
+    {
+       
+        "image":"https://blog.ipleaders.in/wp-content/uploads/2020/12/747379-4d013a81-18d1-4ced-b611-0b4c9ae7c641.jpg",
+        "name":"Park Plaza Ludhiana",
+        "title":"2. Deluxe With BreakFast",
+        "info":"Free Cancellation till CheckIn",
+        "break":"Complimentary Breakfast",
+        "num":"2 Adults In One Room",
+        "area":"100 sq.ft.",
+        "wel":"Welcome Drinks Will Be Served",
+        "price":"Rs 5600"
+    },
+    {
+        
+        "image":"https://blog.ipleaders.in/wp-content/uploads/2020/12/747379-4d013a81-18d1-4ced-b611-0b4c9ae7c641.jpg",
+        "name":"Radisson Blu Hotel MBD",
+        "title":"1. Deluxe",
+        "info":"Free Cancellation till CheckIn",
+        "break":"No Complimentary Breakfast",
+        "num":"2 Adults In One Room",
+        "area":"100 sq.ft.",
+        "wel":"Welcome Drinks Will Be Served",
+        "price":"Rs 3800"
+    },
+    {
+       
+        "image":"https://blog.ipleaders.in/wp-content/uploads/2020/12/747379-4d013a81-18d1-4ced-b611-0b4c9ae7c641.jpg",
+        "name":"Radisson Blu Hotel MBD",
+        "title":"2. Deluxe With BreakFast",
+        "info":"Free Cancellation till CheckIn",
+        "break":"Complimentary Breakfast",
+        "num":"2 Adults In One Room",
+        "area":"100 sq.ft.",
+        "wel":"Welcome Drinks Will Be Served",
+        "price":"Rs 4200"
+    },
+    {
+        
+        "image":"https://blog.ipleaders.in/wp-content/uploads/2020/12/747379-4d013a81-18d1-4ced-b611-0b4c9ae7c641.jpg",
+        "name":"Hotel Maharaja",
+        "title":"1. Deluxe",
+        "info":"Free Cancellation till CheckIn",
+        "break":"No Complimentary Breakfast",
+        "num":"2 Adults In One Room",
+        "area":"100 sq.ft.",
+        "wel":"Welcome Drinks Will Be Served",
+        "price":"Rs 3300"
+    },
+    {
+       
+        "image":"https://blog.ipleaders.in/wp-content/uploads/2020/12/747379-4d013a81-18d1-4ced-b611-0b4c9ae7c641.jpg",
+        "name":"Hotel Maharaja",
+        "title":"2. Deluxe With BreakFast",
+        "info":"Free Cancellation till CheckIn",
+        "break":"Complimentary Breakfast",
+        "num":"2 Adults In One Room",
+        "area":"100 sq.ft.",
+        "wel":"Welcome Drinks Will Be Served",
+        "price":"Rs 3700"
+    },
+    {
+        
+        "image":"https://blog.ipleaders.in/wp-content/uploads/2020/12/747379-4d013a81-18d1-4ced-b611-0b4c9ae7c641.jpg",
+        "name":"Adarsh Farmhouse",
+        "title":"1. Deluxe",
+        "info":"Free Cancellation till CheckIn",
+        "break":"No Complimentary Breakfast",
+        "num":"2 Adults In One Room",
+        "area":"100 sq.ft.",
+        "wel":"Welcome Drinks Will Be Served",
+        "price":"Rs 8300"
+    },
+    {
+       
+        "image":"https://blog.ipleaders.in/wp-content/uploads/2020/12/747379-4d013a81-18d1-4ced-b611-0b4c9ae7c641.jpg",
+        "name":"Adarsh Farmhouse",
+        "title":"2. Deluxe With BreakFast",
+        "info":"Free Cancellation till CheckIn",
+        "break":"Complimentary Breakfast",
+        "num":"2 Adults In One Room",
+        "area":"100 sq.ft.",
+        "wel":"Welcome Drinks Will Be Served",
+        "price":"Rs 8700"
+    },
+    {
+        
+        "image":"https://blog.ipleaders.in/wp-content/uploads/2020/12/747379-4d013a81-18d1-4ced-b611-0b4c9ae7c641.jpg",
+        "name":"Nagpal Regency",
+        "title":"1. Deluxe",
+        "info":"Free Cancellation till CheckIn",
+        "break":"No Complimentary Breakfast",
+        "num":"2 Adults In One Room",
+        "area":"100 sq.ft.",
+        "wel":"Welcome Drinks Will Be Served",
+        "price":"Rs 2200"
+    },
+    {
+       
+        "image":"https://blog.ipleaders.in/wp-content/uploads/2020/12/747379-4d013a81-18d1-4ced-b611-0b4c9ae7c641.jpg",
+        "name":"Nagpal Regency",
+        "title":"2. Deluxe With BreakFast",
+        "info":"Free Cancellation till CheckIn",
+        "break":"Complimentary Breakfast",
+        "num":"2 Adults In One Room",
+        "area":"100 sq.ft.",
+        "wel":"Welcome Drinks Will Be Served",
+        "price":"Rs 2400"
+    },
+    {
+        
+        "image":"https://blog.ipleaders.in/wp-content/uploads/2020/12/747379-4d013a81-18d1-4ced-b611-0b4c9ae7c641.jpg",
+        "name":"The Cove Wing Panchkula",
+        "title":"1. Deluxe",
+        "info":"Free Cancellation till CheckIn",
+        "break":"No Complimentary Breakfast",
+        "num":"2 Adults In One Room",
+        "area":"100 sq.ft.",
+        "wel":"Welcome Drinks Will Be Served",
+        "price":"Rs 3200"
+    },
+    {
+       
+        "image":"https://blog.ipleaders.in/wp-content/uploads/2020/12/747379-4d013a81-18d1-4ced-b611-0b4c9ae7c641.jpg",
+        "name":"The Cove Wing Panchkula",
+        "title":"2. Deluxe With BreakFast",
+        "info":"Free Cancellation till CheckIn",
+        "break":"Complimentary Breakfast",
+        "num":"2 Adults In One Room",
+        "area":"100 sq.ft.",
+        "wel":"Welcome Drinks Will Be Served",
+        "price":"Rs 3600"
+    },
+    {
+        
+        "image":"https://blog.ipleaders.in/wp-content/uploads/2020/12/747379-4d013a81-18d1-4ced-b611-0b4c9ae7c641.jpg",
+        "name":"Regenta Central Cassia",
+        "title":"1. Deluxe",
+        "info":"Free Cancellation till CheckIn",
+        "break":"No Complimentary Breakfast",
+        "num":"2 Adults In One Room",
+        "area":"100 sq.ft.",
+        "wel":"Welcome Drinks Will Be Served",
+        "price":"Rs 6300"
+    },
+    {
+       
+        "image":"https://blog.ipleaders.in/wp-content/uploads/2020/12/747379-4d013a81-18d1-4ced-b611-0b4c9ae7c641.jpg",
+        "name":"Regenta Central Cassia",
+        "title":"2. Deluxe With BreakFast",
+        "info":"Free Cancellation till CheckIn",
+        "break":"Complimentary Breakfast",
+        "num":"2 Adults In One Room",
+        "area":"100 sq.ft.",
+        "wel":"Welcome Drinks Will Be Served",
+        "price":"Rs 6700"
+    },
+    {
+        
+        "image":"https://blog.ipleaders.in/wp-content/uploads/2020/12/747379-4d013a81-18d1-4ced-b611-0b4c9ae7c641.jpg",
+        "name":"Hotel The Pearl",
+        "title":"1. Deluxe",
+        "info":"Free Cancellation till CheckIn",
+        "break":"No Complimentary Breakfast",
+        "num":"2 Adults In One Room",
+        "area":"100 sq.ft.",
+        "wel":"Welcome Drinks Will Be Served",
+        "price":"Rs 2400"
+    },
+    {
+       
+        "image":"https://blog.ipleaders.in/wp-content/uploads/2020/12/747379-4d013a81-18d1-4ced-b611-0b4c9ae7c641.jpg",
+        "name":"Hotel The Pearl",
+        "title":"2. Deluxe With BreakFast",
+        "info":"Free Cancellation till CheckIn",
+        "break":"Complimentary Breakfast",
+        "num":"2 Adults In One Room",
+        "area":"100 sq.ft.",
+        "wel":"Welcome Drinks Will Be Served",
+        "price":"Rs 2600"
+    },
+    {
+        
+        "image":"https://blog.ipleaders.in/wp-content/uploads/2020/12/747379-4d013a81-18d1-4ced-b611-0b4c9ae7c641.jpg",
+        "name":"Hotel Turquoise",
+        "title":"1. Deluxe",
+        "info":"Free Cancellation till CheckIn",
+        "break":"No Complimentary Breakfast",
+        "num":"2 Adults In One Room",
+        "area":"100 sq.ft.",
+        "wel":"Welcome Drinks Will Be Served",
+        "price":"Rs 4200"
+    },
+    {
+       
+        "image":"https://blog.ipleaders.in/wp-content/uploads/2020/12/747379-4d013a81-18d1-4ced-b611-0b4c9ae7c641.jpg",
+        "name":"Hotel Turquoise",
+        "title":"2. Deluxe With BreakFast",
+        "info":"Free Cancellation till CheckIn",
+        "break":"Complimentary Breakfast",
+        "num":"2 Adults In One Room",
+        "area":"100 sq.ft.",
+        "wel":"Welcome Drinks Will Be Served",
+        "price":"Rs 4500"
+    },
+    {
+        
+        "image":"https://blog.ipleaders.in/wp-content/uploads/2020/12/747379-4d013a81-18d1-4ced-b611-0b4c9ae7c641.jpg",
+        "name":"Hotel Hamilton",
+        "title":"1. Deluxe",
+        "info":"Free Cancellation till CheckIn",
+        "break":"No Complimentary Breakfast",
+        "num":"2 Adults In One Room",
+        "area":"100 sq.ft.",
+        "wel":"Welcome Drinks Will Be Served",
+        "price":"Rs 1700"
+    },
+    {
+       
+        "image":"https://blog.ipleaders.in/wp-content/uploads/2020/12/747379-4d013a81-18d1-4ced-b611-0b4c9ae7c641.jpg",
+        "name":"Hotel Hamilton",
+        "title":"2. Deluxe With BreakFast",
+        "info":"Free Cancellation till CheckIn",
+        "break":"Complimentary Breakfast",
+        "num":"2 Adults In One Room",
+        "area":"100 sq.ft.",
+        "wel":"Welcome Drinks Will Be Served",
+        "price":"Rs 2000"
+    },
+    {
+        
+        "image":"https://blog.ipleaders.in/wp-content/uploads/2020/12/747379-4d013a81-18d1-4ced-b611-0b4c9ae7c641.jpg",
+        "name":"Country Inn & Suites by Radisson",
+        "title":"1. Deluxe",
+        "info":"Free Cancellation till CheckIn",
+        "break":"No Complimentary Breakfast",
+        "num":"2 Adults In One Room",
+        "area":"100 sq.ft.",
+        "wel":"Welcome Drinks Will Be Served",
+        "price":"Rs 4200"
+    },
+    {
+       
+        "image":"https://blog.ipleaders.in/wp-content/uploads/2020/12/747379-4d013a81-18d1-4ced-b611-0b4c9ae7c641.jpg",
+        "name":"Country Inn & Suites by Radisson",
+        "title":"2. Deluxe With BreakFast",
+        "info":"Free Cancellation till CheckIn",
+        "break":"Complimentary Breakfast",
+        "num":"2 Adults In One Room",
+        "area":"100 sq.ft.",
+        "wel":"Welcome Drinks Will Be Served",
+        "price":"Rs 4500"
+    },
+    {
+        
+        "image":"https://blog.ipleaders.in/wp-content/uploads/2020/12/747379-4d013a81-18d1-4ced-b611-0b4c9ae7c641.jpg",
+        "name":"Treebo Tryst SC Residency",
+        "title":"1. Deluxe",
+        "info":"Free Cancellation till CheckIn",
+        "break":"No Complimentary Breakfast",
+        "num":"2 Adults In One Room",
+        "area":"100 sq.ft.",
+        "wel":"Welcome Drinks Will Be Served",
+        "price":"Rs 1800"
+    },
+    {
+       
+        "image":"https://blog.ipleaders.in/wp-content/uploads/2020/12/747379-4d013a81-18d1-4ced-b611-0b4c9ae7c641.jpg",
+        "name":"Treebo Tryst SC Residency",
+        "title":"2. Deluxe With BreakFast",
+        "info":"Free Cancellation till CheckIn",
+        "break":"Complimentary Breakfast",
+        "num":"2 Adults In One Room",
+        "area":"100 sq.ft.",
+        "wel":"Welcome Drinks Will Be Served",
+        "price":"Rs 2100"
+    }
+]

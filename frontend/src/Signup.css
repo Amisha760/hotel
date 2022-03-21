@@ -1,0 +1,19 @@
+
+.main{
+    border: 2px solid  grey;
+    border-radius: 7px;
+    padding: 35px;
+    background-color: whitesmoke;
+    margin-top: 160px;
+}
+.register{
+    margin-top: 3px;
+    text-align: center;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+/* *{
+    background-color: black;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+} */

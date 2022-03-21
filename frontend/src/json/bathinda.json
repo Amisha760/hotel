@@ -1,0 +1,170 @@
+[
+{
+    "type":"bathinda",
+    "image":"https://r1imghtlak.mmtcdn.com/2bf769e6a04511eb943d0242ac110004.jpg?&output-quality=75&downsize=910:612&crop=910:612;0,10&output-format=jpg",
+    "name":"The Melody Hotel",
+    "address":"Opposite Mittal Mall, Dr. Mela Ram Road",
+    "rating":"3-star",
+    "price":"Rs 2462"
+},
+{
+    "type":"bathinda",
+    "image":"https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/201804301538236201-856769d8445711e8a4df0a03cae2ed7c.jpg?&output-quality=75&downsize=910:612&crop=910:612;141,0&output-format=jpg",
+    "name":"The Bahia Heights",
+    "address":"DSB Complex, New Cloth Market, The Mall Road",
+    "rating":"4-star",
+    "price":"Rs 1980"
+},
+{
+    "type":"bathinda",
+    "image":"https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/201801291721353768-ec10bb38380b11e8b8720af6ed4b1898.jpg?&output-quality=75&downsize=910:612&crop=910:612;141,0&output-format=jpg",
+    "name":"Hotel Three Palms",
+    "address":"Adarsh nagar,Near NFL Towers, Goniana Road",
+    "rating":"5-star",
+    "price":"Rs 3688"
+},
+{
+    "type":"bathinda",
+    "image":"https://pix10.agoda.net/hotelImages/490/490044/490044_16061214430043442879.jpg?s=1024x768",
+    "name":"Stella Hotel",
+    "address":"Guru Gobind Singh Nagar, Barnala Bye Pass Road",
+    "rating":"3-star",
+    "price":"Rs 3261"
+},
+{
+    "type":"bathinda",
+    "image":"https://imgcy.trivago.com/c_lfill,d_dummy.jpeg,e_sharpen:60,f_auto,h_450,q_auto,w_450/itemimages/31/83/3183842.jpeg",
+    "name":"Country Inn and Suites By Radisson",
+    "address":"HBN Sunrise City, Mansa Road",
+    "rating":"4-star",
+    "price":"Rs 5000"
+},
+{
+    "type":"bathinda",
+    "image":"https://cf.bstatic.com/xdata/images/hotel/max1280x900/285784209.jpg?k=b88fdf106506c78c4332737a3eeebf32e066c34829616ee4bf83659eee56d194&o=&hp=1",
+    "name":"VRC City Heart",
+    "address":"Near Hanuman Chowk, Mall Road",
+    "rating":"3.5-star",
+    "price":"Rs 2000"
+},
+{
+    "type":"bathinda",
+    "image":"https://imgcld.yatra.com/ytimages/image/upload/t_seo_Hotel_w_930_h_550_c_fill_g_auto_q_40_f_jpg/v1438384340/Domestic%20Hotels/Hotels_Bhatinda/Hotel%20Sapphire/Overview.jpg",
+    "name":"Hotel Sapphire",
+    "address":"Corner Basnt Vihar Gali No 11, Barnala Bye Pass Road, Opp Reliance Mall",
+    "rating":"4-star",
+    "price":"Rs 2500"
+},
+    {
+        "type":"ludhiana",
+        "image":"https://r1imghtlak.mmtcdn.com/72b6be8a02be11e982fb0242ac110003.jfif?&output-quality=75&downsize=910:612&crop=910:612;0,35&output-format=jpg",
+        "name":"CHEVRON KLASSIK",
+        "address":"NH, G.T Road, Focal Point, Giaspura Chowk",
+        "rating":"3.8-star",
+        "price":"Rs 2400"
+    },
+    {
+        "type":"ludhiana",
+        "image":"https://imgcld.yatra.com/ytimages/image/upload/t_hotel_yatra_details_desktop/v1526282010/Hotel/Ludhiana/00028033/front_7ifioA.jpg",
+        "name":"Hotel City Lite",
+        "address":"Brown Road,Shubhani Builduing Chowk Near Railway Station",
+        "rating":"3-star",
+        "price":"Rs 1300"
+    },
+    {
+        "type":"ludhiana",
+        "image":"https://res.cloudinary.com/simplotel/image/upload/x_0,y_81,w_1555,h_876,r_0,c_crop,q_80,fl_progressive/w_1500,c_fit,f_auto/park-plaza-ludhiana/Facade_of_Park_Plaza_Ludhiana_5_Star_Hotel_in_Ludhiana_iewcmi",
+        "name":"Park Plaza Ludhiana",
+        "address":"PO Box 333,Bhai Bala Chowk,Ferozepur Road",
+        "rating":"5-star",
+        "price":"Rs 5000"
+    },
+    {
+        "type":"ludhiana",
+        "image":"https://media.radissonhotels.net/image/radisson-hotel-zurich-airport/exteriorview/16256-122237-f66996306_3xl.jpg?impolicy=CustomCrop&cwidth=670&cheight=603",
+        "name":"Radisson Blu Hotel MBD",
+        "address":"MBD Neopolis , Ferozpur Road , Ludhiana - 141012",
+        "rating":"4.5-star",
+        "price":"Rs 3500"
+    },
+    {
+        "type":"ludhiana",
+        "image":"https://exp.cdn-hotels.com/hotels/25000000/24190000/24183100/24183036/cdc09409_z.jpg?impolicy=fcrop&w=773&h=530&q=high",
+        "name":" Hotel Maharaja",
+        "address":"Clock Tower Area",
+        "rating":"3.5-star",
+        "price":"Rs 3000"
+    },
+    {
+        "type":"ludhiana",
+        "image":"https://gos3.ibcdn.com/e9da72804c8b11ec88140a58a9feac02.jpg",
+        "name":"Adarsh Farmhouse",
+        "address":"Street- R4 chabbra colony",
+        "rating":"5-star",
+        "price":"Rs 8000"
+    },
+    {
+        "type":"ludhiana",
+        "image":"https://cf.bstatic.com/xdata/images/hotel/max1280x900/189296397.jpg?k=af8c3a9cbe36fa605399b1df093e82fdbd381ca20bd685bdaac03c42a17ccef3&o=&hp=1",
+        "name":"Nagpal Regency",
+        "address":"Bxx 2610, BhaiWala Chowk, Ferozepur Road",
+        "rating":"4-star",
+        "price":"Rs 2000"
+    },
+    {
+        "type":"chandigarh",
+        "image":"https://gos3.ibcdn.com/85d40aa280c211e683be0a209fbd0127.jfif",
+        "name":"The Cove Wing Panchkula",
+        "address":"SCO 55, SECTOR 5 PANCHKULA HARYANA (INDIA)",
+        "rating":"3-star",
+        "price":"Rs 3000"
+    },
+    {
+        "type":"chandigarh",
+        "image":"https://r1imghtlak.mmtcdn.com/044d5a4ef49111e7a5a30a4cef95d023.jpg",
+        "name":"Regenta Central Cassia",
+        "address":"Lohgarh, Zirakpur - Patiala Highway",
+        "rating":"4-star",
+        "price":"Rs 6000"
+    },
+    {
+        "type":"chandigarh",
+        "image":"https://pix10.agoda.net/hotelImages/216/2169232/2169232_17041221120052354371.jpg?s=1024x768",
+        "name":"Hotel The Pearl",
+        "address":"25/2, Industrial Area, Phase II, Industrial Area phase I & II",
+        "rating":"3-star",
+        "price":"Rs 2200"
+    },
+    {
+        "type":"chandigarh",
+        "image":"https://media-cdn.tripadvisor.com/media/photo-s/0e/a6/a1/d8/img-20170308-213312-largejpg.jpg",
+        "name":"Hotel Turquoise",
+        "address":"29/7 Industrial & Business Park, Industrial Area phase I & II",
+        "rating":"3.5-star",
+        "price":"Rs 4000"
+    },
+    {
+        "type":"chandigarh",
+        "image":"https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/1b/c8/0b/90/propertybuilding.jpg",
+        "name":"Hotel Hamilton",
+        "address":"Opp Ramada Plaza Hote, Ambala Chandigarh Expressway, Zirakpur",
+        "rating":"3-star",
+        "price":"Rs 1500"
+    },
+    {
+        "type":"chandigarh",
+        "image":"https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/201804131721078217-3328ff328b2011e8aae402755708f0b3.jpg",
+        "name":"Country Inn & Suites by Radisson",
+        "address":"NH21, Ambala Chandigarh Highway, Zirakpur",
+        "rating":"3.5-star",
+        "price":"Rs 4000"
+    },
+    {
+        "type":"chandigarh",
+        "image":"https://pix10.agoda.net/hotelImages/22217229/-1/ebabdd62905f8efe4d489ab802840ce8.jpg?ca=21&ce=0&s=1024x768",
+        "name":"Treebo Tryst SC Residency",
+        "address":"5, Zirakpur Panchkula Kalka Highway",
+        "rating":"3-star",
+        "price":"Rs 1600"
+    }
+]
