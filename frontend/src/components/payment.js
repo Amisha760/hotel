@@ -91,7 +91,7 @@ export default function Payment() {
         if(error.textContent===""&&error1.textContent===""&&error2.textContent===""&&error3.textContent===""){
             swal({
                 title: "Payment Succesfull ",
-                text: "Your Room Had Been Booked, You will Be Redirected to Home Page",
+                //html: `<h1>Your Room Had Been Booked, You will Be Redirected to Home Page</h1>`,
                 confirmButtonText: "Cool",
               }).then((res)=>{
                 history("/");

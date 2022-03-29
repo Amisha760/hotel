@@ -1,7 +1,7 @@
 import React from 'react'
 import { useLocation,useNavigate } from 'react-router-dom';
-import rooms from './json/rooms.json';
-import './App.css';
+import rooms from '../json/rooms.json';
+import '../css/App.css';
 export default function Rooms() {
     const {state} = useLocation();
     const {detail}=state;

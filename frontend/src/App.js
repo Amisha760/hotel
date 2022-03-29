@@ -1,15 +1,15 @@
 
-import './App.css';
+import './css/App.css';
 import {Route,Routes} from 'react-router-dom'
-import InfoPage from './infoPage';
-import SearchByHotel from './searchByHotel';
-import Info from './Info';
-import SignUp from './SignUp.jsx';
-import LogIn from './LogIn.jsx';
-import ContactUs from './ContactUs';
-import Aboutus from './Aboutus.jsx';
-import Payment from './payment';
-import Logout from './Logout';
+import InfoPage from './components/infoPage';
+import SearchByHotel from './components/searchByHotel';
+import Info from './components/Info';
+import SignUp from './components/SignUp.jsx';
+import LogIn from './components/LogIn.jsx';
+import ContactUs from './components/ContactUs';
+import Aboutus from './components/Aboutus.jsx';
+import Payment from './components/payment';
+import Logout from './components/Logout';
 
 function App() {
   return (

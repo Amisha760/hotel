@@ -1,6 +1,6 @@
 import React from 'react'
 import {useNavigate} from 'react-router-dom';
-import hotelName from './json/bathinda.json';
+import hotelName from '../json/bathinda.json';
 import Navbar from './navbar';
 import HotelIcon from '@mui/icons-material/Hotel';
 import LocalParkingIcon from '@mui/icons-material/LocalParking';

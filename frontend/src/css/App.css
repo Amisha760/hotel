@@ -4,7 +4,7 @@ body {
   background-color: #ddc3c3;
   overflow-x: hidden;
   white-space: nowrap;
- background-color: white;
+ /* background-color: white; */
 }
 .navbar {
   background-color: white;

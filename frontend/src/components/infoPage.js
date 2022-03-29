@@ -1,7 +1,7 @@
 import React from 'react'
 import InfoCard from './InfoCard';
 import Navbar from './navbar'
-import './App.css'
+import '../css/App.css'
 function InfoPage() {
   return (<>
         <Navbar/>
