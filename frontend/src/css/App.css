@@ -4,23 +4,27 @@ body {
   background-color: #ddc3c3;
   overflow-x: hidden;
   white-space: nowrap;
- /* background-color: white; */
+ /* background-color: rgb(3, 247, 194);  */
+ background-color: rgba(92, 191, 230, 0.5);
+ /* background-color: rgba(92, 191, 230, 0.342); */
 }
 .navbar {
   background-color: white;
-
   position: absolute;
   width: 100%;
   top: 0;
   left: 0;
   right:0;
   margin: 0;
+ height: 100px;
+ min-width: 40%;
+ min-height: 90px;
  
 }
 .navbar img{
   float: left;
   width: 350px;
-  height: 150px;
+  height: 100px;
   min-width: 200px;
   min-height: 70px;
 }
@@ -61,7 +65,7 @@ margin-bottom: 30px;
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-ser;}
 
 #card12{
-  background-color: lightgray;
+  background-color: rgba(124, 145, 144, 0.253);
   box-shadow: 3px 3px gray;
   margin-top:170px;
   margin-bottom: 20px;
@@ -70,6 +74,7 @@ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans
   width: 500px;
   min-height: 200px;
  padding:20px 0px 20px 0px;
+ 
 }
 .card-body{
   
@@ -98,11 +103,13 @@ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans
   justify-content: center;
   margin: 40px 80px 40px 150px;
   text-align: center;
-  border:1px solid lightgray;
+  border:1px solid black;
   border-radius:25px;
   flex-wrap: wrap;
   width: 1200px;
   height: 350px;
+  min-width: 1000px;
+  background-color: rgba(124, 145, 144, 0.253);
 }
 
 .card-img-top1{
@@ -148,7 +155,7 @@ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans
   margin-bottom: 0px;
   border-radius: 10px;
 }
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&family=Work+Sans:wght@800&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&family=Work+Sans:wght@800&display=swap'); */
 
 * {
     padding: 0;
@@ -162,9 +169,9 @@ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans
 .container {
     margin: 20px auto;
     max-width: 1000px;
-    background-color: white;
-    padding: 0;
-   
+    background-color: whitesmoke;
+    padding: 30;
+   border-radius: 30px;
 }
 
 .form-control {
@@ -172,7 +179,7 @@ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans
     width: 150px;
     border: none;
     border-radius: 0;
-    font-weight: 800;
+    font-weight: 600;
     padding: 0 0 5px 0;
     background-color: transparent;
     box-shadow: none;
@@ -289,4 +296,9 @@ img {
 h5,
 .text-muted {
     font-family: 'Poppins', sans-serif
+}
+@media only screen and (max-width: 1250px) {
+  .outer {
+    width: 200px;
+  }
 }

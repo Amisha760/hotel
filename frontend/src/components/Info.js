@@ -17,7 +17,7 @@ export default function Info(props) {
     <Navbar/>
     <div className="cart" id="background"> 
     
-               <h2 style={{textAlign: "center",marginTop:"10px",opacity:"0.7"}}>Hotels According to Your Search</h2>               
+               <h2 style={{textAlign: "center",marginTop:"10px",opacity:"0.7"}}>Your Hotel type</h2>               
                     <div className="outer">
                         <div >
                         <img src={detail.image} class="card-img-top1" alt="..."/>
@@ -42,7 +42,7 @@ export default function Info(props) {
                                 </div>
                                   <h6 class="card-title" style={{marginLeft:"70%",marginTop:"5%"}}>{detail.price}</h6>   
                                   <div style={{display: "flex", justifyContent: "center"}} >
-                                    <button onClick={()=>alert(detail)} style={{width: "200px",marginLeft:"70%",backgroundColor:"lightgray",color:'black',borderRadius:"15px"}}>Book Now</button>
+                                   
                                   </div>     
                         </div>
                    

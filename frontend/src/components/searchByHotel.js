@@ -59,7 +59,7 @@ function SearchByHotel(props) {
                                   <h6 class="card-title" style={{marginLeft:"70%",marginTop:"5%"}}>{detail.price}</h6>
                                     
                                   <div style={{display: "flex", justifyContent: "center"}} >
-                                    <button onClick={()=>alert(detail)} style={{width: "200px",marginLeft:"70%",backgroundColor:"lightgray",color:'black',borderRadius:"15px"}}>Book Now</button>
+                                    <button onClick={()=>alert(detail)} style={{width: "200px",marginLeft:"70%",backgroundColor:"whitesmoke",color:'black',borderRadius:"15px"}}>Book Now</button>
                                   </div>    
                                         
                         </div>

@@ -68,7 +68,7 @@ export default function Rooms() {
                                 <div style={{display: "flex", flexDirection:"column", justifyContent: "center"}} >
                                     
                                   <h6 class="card-title" style={{marginLeft:"30%",marginTop:"30%"}}>{details.price}</h6>
-                                    <button style={{width: "200px",marginLeft:"45%",backgroundColor:"lightgray",color:'black',borderRadius:"15px"}} onClick={()=>alert(details)}>Book Now</button>
+                                    <button style={{width: "200px",marginLeft:"45%",backgroundColor:"whitesmoke",color:'black',borderRadius:"15px"}} onClick={()=>alert(details)}>Book Now</button>
                                   </div>          
                         </div>
                     </div>

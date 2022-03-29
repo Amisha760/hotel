@@ -103,7 +103,51 @@ router.get("/logout",(req,res)=>{
   res.clearCookie('jwtoken');
   res.status(200).send("user logout");
 });
+// var nodemailer = require("nodemailer");
 
+// var transporter = nodemailer.createTransport({
+//   host: process.env.SMPT_HOST,
+//     port: process.env.SMPT_PORT,
+//     service: process.env.SMPT_SERVICE,
+//     auth: {
+//       user: process.env.SMPT_MAIL,
+//       pass: process.env.SMPT_PASSWORD
+//     },
+// });
+
+// //otp
+
+// router.post("/otp", (req, res) => {
+//   const { email, otp, adr, city, state, image, title, price, name } = req.body;
+
+//   var mailOptions;
+
+//   if(!adr && !city && !state && !image && !title && !price){
+//     mailOptions = {
+//       from: process.env.SMPT_MAIL,
+//       to: email,
+//       subject: "Otp For Verify Your Mail id..",
+//       text: `Hi ${name} , Your Otp is ${otp}`,
+//     };
+//   }else{
+//     mailOptions = {
+//       from: process.env.SMPT_MAIL,
+//         to: email,
+//       subject: 'YOUR ORDER WAS SUCCESSFULLY PLACED',
+//       html: `<div> <h1>YOUR ITEM</h1> <div><img src=${image} alt="..."/> <div> <h2>${title}</h2> <h3>₹ ${price}</h3> </div></div>  <ul> <li>city : ${city}</li> <li>state : ${state}</li> <li>address : ${adr}</li></ul></div>`
+//     }
+//   }
+
+
+//   transporter.sendMail(mailOptions, function (error, info) {
+//     if (error) {
+//       console.log(error);
+//     } else {
+//       res.status(200).json({ message: "OTP SENT SUCCESSFULLY!" });
+//       console.log("Email sent: " + info.response);
+//     }
+//   });
+// });
 
 
 module.exports=router;
