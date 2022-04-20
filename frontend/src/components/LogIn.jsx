@@ -40,14 +40,14 @@ function LogIn()
      {/* <div className="heading">Log In</div> */}
 
      <Navbar/>
-    <div className="card">
+    <div className="card_log">
         
       <div class="login"> <strong><h3>Login Here</h3></strong></div>
   
     <div>
         <div className="inputbox"> <span>Email</span> <input type="text" style={{width:"100%"}} name="email" className="form-control" required="required" value={email} onChange={(e)=>setEmail(e.target.value)}/> </div>
         <div className="inputbox">
-            <div className="d-flex justify-content-between align-items-center"> <span>Password</span> <a href="#">Forgot your password?</a> </div> <input type="text" style={{width:"100%"}} name="password" className="form-control" required="required" value={password} onChange={(e)=>setPassword(e.target.value)}/>
+            <div  className="d-flex justify-content-between align-items-center" > <span >Password</span> <a href="#">Forgot your password?</a> </div> <input type="password" style={{width:"100%"}} name="password" className="form-control" required="required" value={password} onChange={(e)=>setPassword(e.target.value)}/>
         </div>
     </div>
     <div class="mt-2 proceed">

@@ -12,8 +12,9 @@ function Navbar() {
     <Link to="/aboutus" className="navbar-brand" >About Us</Link>
     <Link to="/ContactUs" className="navbar-brand">Contact Us</Link>
     <Link to="/signup" className="navbar-brand" >Sign Up</Link>
-    <Link to="/logout" className="navbar-brand" >Logout</Link>
     <Link to="/login" className="navbar-brand" >Login</Link>
+    <Link to="/logout" className="navbar-brand" >Logout</Link>
+   
    
     
     
