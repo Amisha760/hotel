@@ -11,4 +11,4 @@ require("./db/connection");
 //  app.get("/",(req,res)=>{
 //      res.send("hello");
 //  })
- app.listen(6000);
+ app.listen(8000);

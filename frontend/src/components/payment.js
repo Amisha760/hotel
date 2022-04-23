@@ -41,6 +41,9 @@ export default function Payment() {
     useEffect(()=>{
         callpaymentpage();
     });
+
+
+
     const [user,setUser] = useState({
         cn:"",
         ex:"",
@@ -67,15 +70,15 @@ export default function Payment() {
         else if(cn.length===16){
             error.textContent="";
         }
-        if(ex.length!==7 || ex.length===0){
+        if(!ex.length>=1 && !ex.length<=12  || ex.length===0){
             error1.textContent = "Card Number should be of 16 Numbers";
             error1.style.color = "red";
         }
-        else if(ex.length===7 || ex.length!==0){
+        else if(ex.length>=1 && ex.length<=12 || ex.length!==0){
             error1.textContent = "";  
         }
         if(chn.length<=3  || chn.length>=16 || chn.length===0){
-            error2.textContent = "Card Number should be of 16 Numbers";
+            error2.textContent = "Enter valid month";
             error2.style.color = "red";
         }
         else if(ex.length===7 || ex.length!==0){

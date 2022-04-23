@@ -11,16 +11,16 @@ function LogIn()
     const [password,setPassword]=useState('');
       
     const loginUser= async (e)=>{
-          e.preventDefault();
+          e.preventDefault();//by default reload krdeta h usse bachne kaliye
             const res=await fetch('/login',
             {
               method:"POST",
               headers:{
                 "Content-Type":"application/json"
-              },
+              }, 
               body:JSON.stringify({
                email,password
-              })
+              }) 
             });
             const data= await res.json();
             if(res.status===400|| !data){

@@ -1,13 +1,17 @@
 const express=require("express");
 const router=express.Router();
 const bcrypt=require("bcrypt");
+const jwt=require("jsonwebtoken");
+const authenticate=require("../middleware/authenticate");
+const cookieParser = require("cookie-parser");
 require("../db/connection");
+
 const User=require("../model/userRegisterSchema");
 
-router.get("/",(req,res)=>{
-    res.send("hello from router");
-})
-
+// router.get("/",(req,res)=>{
+//     res.send("hello from router");
+// })
+router.use(cookieParser());
 router.post('/register',async (req,res)=>{
     // console.log(req.body);
     const {name , email,password,cpassword}=req.body;
@@ -40,6 +44,7 @@ try{
 //login page
 
 router.post("/login",async(req,res)=>{
+  let token;
     try{
     const {email,password}=req.body;
      if(!email || !password){
@@ -50,6 +55,15 @@ router.post("/login",async(req,res)=>{
       // console.log(userLogin);
       if(userLogin){
          const passMatch= await bcrypt.compare(password,userLogin.password);
+           token=await userLogin.generateAuthToken();
+          //create token to verify if user is login or not
+          // console.log(token);
+         res.cookie("jwttoken",token,{
+           expires:new Date(Date.now()+2589000000),
+           //after how much time it expires
+           httpOnly:true
+         });
+
       if(!passMatch){
         res.status(400).json({error:"invalid credentials pass"});
       } else{
@@ -80,9 +94,15 @@ router.post("/contactus" ,async(req,res)=>{
     console.log(err);
   }
 })
+router.get("/paymentb",authenticate,async(req,res)=>{
+   res.send(req.rootUser);
+})
 
-
-
+router.get("/logout",(req,res)=>{
+  console.log("hello logout hogya");
+  res.clearCookie('jwtoken');
+  res.status(200).send("user logout");
+});
 module.exports=router;
 
 
